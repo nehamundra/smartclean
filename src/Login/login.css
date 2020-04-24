@@ -1,0 +1,23 @@
+.topdiv{
+    top:56px;
+    position:absolute;
+    width:97%;
+    margin:2em
+}
+
+label{
+    width:30%;
+    text-align: right;
+    padding: 5px;
+}
+
+.row{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width:100%
+}
+
+.btn{
+    text-align: center;
+}
